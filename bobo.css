@@ -1,0 +1,21 @@
+.box{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+.box1{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(233, 0, 0);
+}
+.linkaa{
+    
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    background-image: url('https://media.giphy.com/media/J2e2dmVNSdfb2/giphy.gif');
+    background-size: cover;
+}
